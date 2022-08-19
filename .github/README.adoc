@@ -1,2 +1,4 @@
 
 image::https://avatars.githubusercontent.com/u/58485278["Made with 💛 by polis.dev",250,250]
+
+- Create a new release: `gh release create "v$(echo $(date +%Y.%m.%d)+$(git rev-parse --short HEAD))" --generate-notes`
