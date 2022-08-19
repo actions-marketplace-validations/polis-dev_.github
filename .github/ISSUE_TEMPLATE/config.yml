@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-issue-config.json
+blank_issues_enabled: true
+contact_links:
+  - name: Slack
+    url: https://polis-dev.slack.com
+    about: Primary method of internal communication.
