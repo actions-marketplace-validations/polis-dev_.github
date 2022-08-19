@@ -7,7 +7,7 @@ https://dl-cdn.alpinelinux.org/alpine/edge/community
 https://dl-cdn.alpinelinux.org/alpine/edge/testing
 __APK_REPO_LIST__
 
-apk add -u --no-cache -t github-base \
+apk add -u --no-cache -t gh-polis-dev \
   asciidoctor \
   bash \
   bat \
