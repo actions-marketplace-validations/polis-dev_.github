@@ -1,4 +1,4 @@
-name: 'GitHub Action'
+name: 'Polis.dev GitHub Action'
 description: 'Use our github-specific container!'
 author: 'Jake <jake@polis.dev>'
 branding:
