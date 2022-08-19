@@ -19,7 +19,6 @@ apk add -u --no-cache \
   git \
   github-cli \
   grep \
-  grep \
   jq \
   kubectl \
   less \
