@@ -1,9 +1,9 @@
 name: 'Polis.dev GitHub Action'
-description: 'Use our github-specific container!'
 author: 'Jake <jake@polis.dev>'
-branding:
-  icon: 'award'
-  color: 'green'
+branding: {"icon": "award", "color": "green"}
+description: >-
+  Use our github-specific container!
+
 runs:
   using: 'docker'
   image: 'ghcr.io/polis-dev/gh:main'
