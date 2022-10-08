@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "assigneesFromCodeOwners": true,
   "extends": [
     "config:base",
     ":assignee(@polis-dev/org)",
