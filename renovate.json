@@ -16,6 +16,7 @@
     "config:base",
     ":gitSignOff",
     ":timezone(UTC)",
-    ":semanticPrefixChore"
+    ":semanticPrefixChore",
+    "group:allNonMajor"
   ]
 }
