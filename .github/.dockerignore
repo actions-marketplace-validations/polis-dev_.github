@@ -1,0 +1,4 @@
+*
+!setup-alpine.sh
+!Dockerfile
+!.dockerignore
